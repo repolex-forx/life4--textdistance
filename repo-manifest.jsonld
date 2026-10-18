@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/life4/textdistance/commit/d6a68d61088a40eef5c88191ccf79323dbf34850",
       "git:hexsha": "d6a68d61088a40eef5c88191ccf79323dbf34850",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/life4/textdistance/commit/1b5a7bc1232b2ef7cbf2808c7b46b4aa56f44616",
